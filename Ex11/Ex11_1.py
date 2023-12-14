@@ -1,6 +1,6 @@
 import os
 
-print("Advent Of Code 2023 - Exercice 10_1")
+print("Advent Of Code 2023 - Exercice 11_1")
 
 Fichier_Input = open("input.txt", 'r')
 
